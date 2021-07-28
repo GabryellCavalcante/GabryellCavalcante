@@ -19,4 +19,4 @@
 
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=GabryellCavalcante&show_icons=true&theme=radical)](https://github.com/GabryellCavalcante/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryellCavalcante)](https://github.com/GabryellCavalcante/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryellCavalcante&show_icons=true&theme=radical)](https://github.com/GabryellCavalcante/github-readme-stats)
