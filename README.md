@@ -1,7 +1,7 @@
 # Bem Vinda(o)!
 
-# Sou Gabryell Cavalcante !
-# Esse é o espaço que eu uso pra criar e me divertir!
+### Sou Gabryell Cavalcante !
+### Esse é o espaço que eu uso pra criar e me divertir!
 
 :computer: Apaixonado por Front-End com um pezinho em back-end!
 
@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryellCavalcante&layout=compact&show_icons=true&theme=radical)](https://github.com/GabryellCavalcante/github-readme-stats)
 
-## Fique a vontade pra me mandar uma mensagem.
+### Fique a vontade pra me mandar uma mensagem.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=github.com/GabryellCavalcante)](github.com/GabryellCavalcante)
 
