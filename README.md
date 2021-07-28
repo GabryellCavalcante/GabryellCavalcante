@@ -1,16 +1,14 @@
-### Hi there 👋
+# Bem Vinda(o)!
 
-<!--
-**GabryellCavalcante/GabryellCavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sou Gabryell Cavalcante !
+## Esse é o espaço que eu uso pra criar e me divertir!
 
-Here are some ideas to get you started:
+:computer: Apaixonado por Front-End com um pezinho em back-end!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:house_with_garden: Brasil.
+
+:books: Estudando Front-End como se não houvesse amanhã.
+
+:outbox_tray: Engajado em um projeto para melhorar meu portfólio e ajudar o próximo (mais que tudo).
+
+## Fique a vontade pra me mandar uma mensagem.
